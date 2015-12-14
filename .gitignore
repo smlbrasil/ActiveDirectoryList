@@ -1,0 +1,8 @@
+*.suo
+*.bak
+*.cache
+*.log
+[Bb]in
+[Dd]ebug*/
+obj/
+*.csproj.user
